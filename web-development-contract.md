@@ -67,44 +67,32 @@
 <p>If your web development service includes the integration of online purchasing/ecommerce facilities, you will be responsible for both the set-up and ongoing costs of these services. These may include merchant gateway fees, purchase of an SSL certificate and any other fees for services provided by this third party functionality. When the time comes to integrate these services, I will endeavour to fully inform you of what costs may be involved.</p>
 
 <h2>Legal Stuff</h2>
-
-<p>I can&#8217;t guarantee that the functions contained in any webpage templates or in a completed website will always be error-free and so I can&#8217;t be liable to you or any third party for damages, including lost profits, lost savings or other incidental, consequential or special damages arising out of the operation of or inability to operate this website and any other webpages, even if you have advised me of the possibilities of such damages.</p>
-
+<p>We can&rsquo;t guarantee that the functions contained in any webpage templates or in a completed website will always be error-free and so we can&rsquo;t be liable to you or any third party for damages, including lost profits, lost savings or other incidental, consequential or special damages arising out of the operation of or inability to operate this website and any other webpages, even if you have advised me of the possibilities of such damages.</p>
 <p>If any provision of this agreement shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this agreement and shall not affect the validity and enforceability of any remaining provisions.</p>
-
 <h2>Copyrights</h2>
-
-<p>You guarantee to us that any elements of text, graphics, photos, designs, trademarks, or other artwork that you provide me for inclusion in the website are either owned by your good selfs, or that you have permission to use them.</p>
-
-<p>When I receive my final payment, copyright is automatically assigned as follows:</p>
-
+<p>Copyright of all Products created while performing Services for the Client will be transferred to the Client upon receipt of payment in full, except in the cases described below.</p>
+<p>Copyright Exceptions</p>
+<ol>
+<li>The Developer reserves the right to reuse and re-license portions of the created Product as desired, as long as the portions are general solutions to common problems and are not specific to the Clients product.</li>
+<li>Any portions of the Product whose copyright is withheld by the developer are licensed to the Client for use in the Product under the MIT license:&nbsp;<a href="http://www.opensource.org/licenses/mit-license.php" target="_blank" rel="noopener">http://www.opensource.org/licenses/mit-license.php</a></li>
+<li>The Client will only be billed for portions of the Product which were created during the effective period of this contract and created while performing Services for the Client.</li>
+</ol>
+<p>When we receive my final payment, copyright is automatically assigned as follows:</p>
 <ul>
-<li>You own the graphics and other visual elements that I create for you for this project. I will give you a copy of all files at your request and you should store them safely as I am only required to keep them or provide any native source files that I used in making them for a period of one calendar month (up to 31 days) from the launch of the website.</li>
+<li>You own the graphics and other visual elements that we create for you for this project. we will give you a copy of all files at your request and you should store them safely as we are only required to keep them or provide any native source files that we used in making them for a period of one calendar month (up to 31 days) from the launch of the website.</li>
 <li>You also own text content, photographs and other data you provided, unless someone else owns them.</li>
-<li>I own any customised HTML, CSS, JS, PHP and other code and I license it to you for use on only this project. Should you need to re-use it in the future, we can discuss this.</li>
-<li>It is possible that I will use plugins and code from external sources (jQuery for example). In this case, the ownership of that code will be based on the license it is provided with.</li>
 </ul>
-
-<p>I love to show off my work and share what I have learned with other people, so I would like the opportunity to display and link to your completed project as part of my portfolio and to write about the project on websites, in magazine articles and in books.</p>
-
+<p>We love to show off my work and share what we have learned with other people, so we would like the opportunity to display and link to your completed project as part of my portfolio and to write about the project on websites, in magazine articles and in books.</p>
 <h2>Payments</h2>
-
-<p>I am sure you understand how important it is as a small business that you pay the invoices that I send you promptly. As I&#8217;m also sure you&#8217;ll want to stay friends, you agree to stick to the following payment schedule, which will be as follows, but may be revised based on further conversations between us.</p>
-
+<p>We are sure you understand how important it is as a small business that you pay the invoices that we send you promptly. As we are also sure you&rsquo;ll want to stay friends, you agree to stick to the following payment schedule, which will be as follows, but may be revised based on further conversations between us.</p>
 <ul>
-<li>[% INITIAL PERCENTAGE] of total estimated maximum fee payable prior to work commencing: [$ INITIAL PERCENTAGE VALUE]</li>
+<li>%20 of total estimated maximum fee payable prior to work commencing: [$ INITIAL PERCENTAGE VALUE]</li>
 <li>Remainder of fee payable prior to handover of the completed files and/or website launch (whichever comes first): [$ REMAINING PAYMENT DUE]</li>
 <li>Should the website development cost come in below what was initially quoted, the difference will be deducted from the final invoice.</li>
 </ul>
-
-<p>I do not place any interest on late payments because that&#8217;s no fun for anyone, but reserve the right to stop work on the project and withdraw any staging site or otherwise up until the time any outstanding amount is settled. Hopefully this will not be the case.</p>
-
+<p>I do not place any interest on late payments because that&rsquo;s no fun for anyone, but reserve the right to stop work on the project and withdraw any staging site or otherwise up until the time any outstanding amount is settled. Hopefully this will not be the case.</p>
 <h4>But where is all the horrible small print?</h4>
-
 <p>Just like a parking ticket, you cannot transfer this contract to anyone else without my explicit written permission.</p>
-
 <p>This contract stays in place and need not be renewed. If for some reason one part of this contract becomes invalid or unenforceable, the remaining parts of it remain in place.</p>
-
 <p><em>Although the language is simple, the intentions are serious and this contract is a legal document.</em></p>
-
 <p>Everyone should keep a copy once signed for their own records.</p>
