@@ -96,15 +96,13 @@
 <h2>Copyright Exceptions</h2>
 <ol>
   <li>The Developer reserves the right to reuse and re-license portions of the created Product as desired, as long as the portions are general solutions to common problems and are not specific to the Clients product.</li>
-  <li>Any portions of the Product whose copyright is withheld by the developer are licensed to the Client for use in the Product under the MIT license:&nbsp;<a href="http://www.opensource.org/licenses/mit-license.php" rel="noopener">http://www.opensource.org/licenses/mit-license.php</a>
-</li>
+  <li>Any portions of the Product whose copyright is withheld by the developer are licensed to the Client for use in the Product under the MIT license:&nbsp;<a href="http://www.opensource.org/licenses/mit-license.php" rel="noopener">http://www.opensource.org/licenses/mit-license.php</a></li>
   <li>The Client will only be billed for portions of the Product which were created during the effective period of this contract and created while performing Services for the Client.</li>
+  <li>We love to show off our work and share what we have learned with other people, so we would like the opportunity to display and link to your completed project as part of our portfolio and to write about the project on websites, in magazine articles and in books.</li>
 </ol>
 
 <h2>Intangible Property</h2>
 <p>The Developer retains ownership of all Intangibles gained by the Developer (that are not previously owned by the Client) while providing Services.</p>
-
-<p>We love to show off our work and share what we have learned with other people, so we would like the opportunity to display and link to your completed project as part of our portfolio and to write about the project on websites, in magazine articles and in books.</p>
 
 <h2>Termination</h2>
 <p>Either party must give at least 14 days notice to the other party before termination. This contract may only be terminated after all outstanding invoices have been paid in full.</p>
