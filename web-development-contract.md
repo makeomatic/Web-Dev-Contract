@@ -49,7 +49,7 @@
 
 <p>However, we will not test these templates in old or abandoned browsers, for example Microsoft Internet Explorer 10 (or below) for Windows or Mac, previous versions of Apple Safari, Mozilla Firefox, Google Chrome or other unless otherwise specified. If you need to show the same or similar visual design to visitors using these older browsers, we will charge you at the hourly rate for any necessary additional code and its testing.</p>
 
-<h4>Mobile app testing<h4>
+<h4>Mobile app testing</h4>
 
 <p>If the project includes mobile applications we will test all our code in the latest 2 versions of iOS and Android OS. If you need to support older versions of mobile operating systems we will charge you at the hourly rate for any necessary additional code and its testing.</p>
 
