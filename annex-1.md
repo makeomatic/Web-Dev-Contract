@@ -14,6 +14,7 @@ Payments shall be performed in accordance with the following payment schedule an
 
 Developer agrees to complete work based on the following standard hourly rates in $ USD:
 
+* System Architect: $80
 * Mobile development (iOS, Android): $40
 * Web development (frontend, backend): $35
 * Project management: $35
